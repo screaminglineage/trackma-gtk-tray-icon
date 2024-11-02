@@ -1,9 +1,9 @@
 Trackma (with GTK wayland tray icons)
 =======
-
-Note that this is an extremely quick and dirty hack that seems to work on my system (Arch linux with Gnome on wayland) which enables tray icons on wayland using libappnotifier, along with the correspongind [extension](https://extensions.gnome.org/extension/615/appindicator-support/). 
-
-The rest of this document is the original README.md for Trackma.
+> [!WARNING]
+> Note that this is an extremely quick and dirty hack that seems to work on my system (Arch linux with Gnome on wayland) which enables tray icons on wayland using libappnotifier, along with the corresponding [extension](https://extensions.gnome.org/extension/615/appindicator-support/). 
+>
+> The rest of this document is the original README.md for Trackma.
 
 
 
