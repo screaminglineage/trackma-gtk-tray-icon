@@ -1,5 +1,11 @@
-Trackma
+Trackma (with GTK wayland tray icons)
 =======
+
+Note that this is an extremely quick and dirty hack that seems to work on my system (Arch linux with Gnome on wayland) which enables tray icons on wayland using libappnotifier, along with the correspongind [extension](https://extensions.gnome.org/extension/615/appindicator-support/). 
+
+The rest of this document is the original README.md for Trackma.
+
+
 
 Trackma aims to be a lightweight and simple but feature-rich program for Unix based systems
 for fetching, updating and using data from personal lists hosted in several media tracking websites.
